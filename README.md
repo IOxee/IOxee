@@ -1,4 +1,8 @@
-### Hi there 👋
+## <img src="https://i.imgur.com/CjtVabz.gif" alt="GIF" height="200">
+***
+![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/236731793892573185?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/236731793892573185?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/236731793892573185) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/236731793892573185)
+
+
 
 <!--
 **IOxeOfficial/IOxeOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
