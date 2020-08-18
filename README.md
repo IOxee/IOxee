@@ -6,7 +6,7 @@
 -->
 
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IOxeOfficial&theme=dark&title_color=FFA759&icon_color=FFD580&bg_color=1F2430&text_color=FFCC66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IOxeOfficial&hide=tsql&title_color=FFA759&icon_color=FFD580&bg_color=1F2430&text_color=FFCC66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 <!--
