@@ -6,3 +6,5 @@
 <!--
 ![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/236731793892573185?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/236731793892573185?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/236731793892573185) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/236731793892573185)
 -->
+
+<a href="https://www.buymeacoffee.com/ioxeofficial"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a hotdog&emoji=🌭&slug=ioxeofficial&button_colour=e8c597&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
