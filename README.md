@@ -10,7 +10,7 @@
 
 - 👯 Collaborating in [HysteriaRP](https://www.hysteriarp.com)
 
-- 👨‍💻 All of my projects are available at [ioxeofficial.github.io](ioxeofficial.github.io)
+- 👨‍💻 All of my projects are available at [ioxeofficial.github.io](https://ioxeofficial.github.io)
 
 - 📫 Contact me on:  **phoenixstudiomodding@gmail.com**
 
