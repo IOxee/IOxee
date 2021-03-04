@@ -8,7 +8,7 @@
 
 - 🌱 Currently learning **FiveM Frameworks, Java**
 
-- 👯 Collaborating in [HysteriaRP](www.hysteriarp.com)
+- 👯 Collaborating in [HysteriaRP](https://www.hysteriarp.com)
 
 - 👨‍💻 All of my projects are available at [ioxeofficial.github.io](ioxeofficial.github.io)
 
