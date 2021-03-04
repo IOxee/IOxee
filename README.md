@@ -2,17 +2,17 @@
 ***
 <!--![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/236731793892573185?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/236731793892573185?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/236731793892573185) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/236731793892573185)-->
 
-<h3 align="center">I am IO, and I am a developer from Spain, I am a fan of Cyberpunk culture and drink Energy Drinks</h3>
+<h3 align="center">I'm IO, a developer from Spain, a huge fan of Cyberpunk culture and I'm usually drinking Red Bull</h3>
 
-- 🔭 I’m currently working on [Realistic Framework for FiveM](https://trello.com/b/XVNryBBn/phoenix-studio-dev)
+- 🔭 Currently working on [Realistic Framework for FiveM](https://trello.com/b/XVNryBBn/phoenix-studio-dev)
 
-- 🌱 I’m currently learning **FiveM Frameworks, Java**
+- 🌱 Currently learning **FiveM Frameworks, Java**
 
-- 👯 I am collaborating in [HysteriaRP](www.hysteriarp.com)
+- 👯 Collaborating in [HysteriaRP](www.hysteriarp.com)
 
 - 👨‍💻 All of my projects are available at [ioxeofficial.github.io](ioxeofficial.github.io)
 
-- 📫 How can you contact me? **phoenixstudiomodding@gmail.com**
+- 📫 Contact me on:  **phoenixstudiomodding@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
