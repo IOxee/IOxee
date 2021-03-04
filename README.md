@@ -27,6 +27,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ioxeofficial"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Red Bull&emoji=🥤&slug=ioxeofficial&button_colour=7b2f9f&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00"></a></p><br><br>
 
-<details>
+<!--<details>
 <summary>Other Things</summary>
-<img src="https://i.imgur.com/y3k4PK8.gif" alt="GIF" height="200">
+<img src="https://i.imgur.com/y3k4PK8.gif" alt="GIF" height="200">-->
