@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ioxeofficial" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="ioxeofficial" height="64" width="64"/></a>
-<a href="dsc.bio/byblackdeath" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/discord-logo.png" alt="ByBlackDeath#5528" height="64" width="64"/></a>
+<a href="https://dsc.bio/byblackdeath" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/discord-logo.png" alt="ByBlackDeath#5528" height="64" width="64"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
