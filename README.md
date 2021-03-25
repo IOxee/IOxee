@@ -3,15 +3,13 @@
 
 <h3 align="center">I'm IO, a developer from Spain, a huge fan of Cyberpunk culture and I'm usually drinking Red Bull</h3>
 
-- 🔭 Currently working on [Realistic Framework for FiveM](https://trello.com/b/XVNryBBn/phoenix-studio-dev)
+- 🔭 Currently working on **Servers for FiveM**
 
-- 🌱 Currently learning **FiveM Frameworks, Java**
+- 👯 Collaborating in **FiveM Project and Servers**
 
-- 👯 Collaborating in [HysteriaRP](https://www.hysteriarp.com)
+- 👨‍💻 All of my projects are available at [ioxeofficial.github.io](ioxeofficial.github.io)
 
-- 👨‍💻 All of my projects are available at [ioxeofficial.github.io](https://ioxeofficial.github.io)
-
-- 📫 Contact me on:  **phoenixstudiomodding@gmail.com**
+- 📫 Contact me on: **phoenixstudiomodding@gmail.com**
 
 ### Connect with me:</h3>
 <p align="left">
