@@ -7,7 +7,7 @@
 
 - 👯 Collaborating in **FiveM Project and Servers**
 
-- 👨‍💻 All of my projects are available at [ioxeofficial.github.io](ioxeofficial.github.io)
+- 👨‍💻 All of my projects are available at [ioxeofficial.github.io](https://ioxeofficial.github.io/#home)
 
 - 📫 Contact me on: **phoenixstudiomodding@gmail.com**
 
