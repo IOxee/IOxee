@@ -29,8 +29,12 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
-### 📡 My Official Discord:</h3>
-<p><a href="https://dsc.gg/ioxestudio"><img src="https://img.buymeacoffee.com/button-api/?text=My Discord Official&emoji=💻&slug=ioxeofficial&button_colour=7b2f9f&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00"></a></p><br>
-
 ### 🎶 What I'm listening to right now!
 [![Spotify playing](http://spotify.aio-api.ml/spotify?id=rockiolen&theme=wavy&image=true&color_theme=dark&bars_when_not_listening=true&bg_color=&title_color=%23fff&text_color=&hide_status=false&display_timer=true)](https://open.spotify.com/user/rockiolen)
+
+<details>
+  <summary>More Things</summary>
+  </br>
+  📡 My Official Discord:
+<p><a href="https://dsc.gg/ioxestudio"><img src="https://img.buymeacoffee.com/button-api/?text=My Discord Official&emoji=💻&slug=ioxeofficial&button_colour=7b2f9f&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00"></a></p><br>
+</details>
