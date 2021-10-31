@@ -30,7 +30,7 @@
 </p>
 
 ### 📱 Discord Rich Presence
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/236731793892573185)](https://discord.com/users/236731793892573185)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/236731793892573185?theme=dark&bg=5c0a5c&hideBadges=true&hideDiscrim=true&borderRadius=30px&idleMessage=Thinking%20in%20shower...)](https://discord.com/users/236731793892573185)
 
 
 ### 🎶 What I'm listening to right now!
