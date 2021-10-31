@@ -29,6 +29,9 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
+### 📱 Discord Rich Presence
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/ByBlackDeath#5528)](https://discord.com/users/ByBlackDeath#5528)
+
 ### 🎶 What I'm listening to right now!
 [![Spotify playing](http://spotify.aio-api.ml/spotify?id=rockiolen&theme=wavy&image=true&color_theme=dark&bars_when_not_listening=true&bg_color=&title_color=%23fff&text_color=&hide_status=false&display_timer=true)](https://open.spotify.com/user/rockiolen)
 
