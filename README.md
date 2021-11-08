@@ -39,6 +39,7 @@
 <details>
   <summary>More Things</summary>
   </br>
-  📡 My Official Discord:
-<p><a href="https://dsc.gg/ioxestudio"><img src="https://img.buymeacoffee.com/button-api/?text=My Discord Official&emoji=💻&slug=ioxeofficial&button_colour=7b2f9f&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00"></a></p><br>
+    <p>There is still nothing to show here</p>
+    <img src="https://i.imgur.com/3UQocTj.gif" alt="funny GIF" width="100%">
+  <br>
 </details>
