@@ -32,9 +32,8 @@
 ### My Github Status
 ![IOxeOfficial GitHub stats](https://github-readme-stats.vercel.app/api?username=IOxeOfficial&show_icons=true&theme=radical)
 
-
-### 🎶 What I'm listening to right now!
-[![Spotify playing](http://spotify.aio-api.ml/spotify?id=rockiolen&theme=wavy&image=true&color_theme=dark&bars_when_not_listening=true&bg_color=&title_color=%23fff&text_color=&hide_status=false&display_timer=true)](https://open.spotify.com/user/rockiolen)
+<!--### 🎶 What I'm listening to right now!
+[![Spotify playing](http://spotify.aio-api.ml/spotify?id=rockiolen&theme=wavy&image=true&color_theme=dark&bars_when_not_listening=true&bg_color=&title_color=%23fff&text_color=&hide_status=false&display_timer=true)](https://open.spotify.com/user/rockiolen)-->
 
 <details>
   <summary>More Things</summary>
