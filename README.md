@@ -67,6 +67,3 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
