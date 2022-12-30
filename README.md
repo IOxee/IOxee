@@ -16,24 +16,9 @@ I am a full-stack developer who has been working in the programming field for ma
 
 I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 3D Modeling services for GTA V and DayZ.  
   
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
+ 
 - 🔭 I’m currently working on [OXY3N STUDIO](https://oxy3n-studio.tebex.io/)  
-  
-
 - 🌱 I’m currently learning PHP, JS and Lua  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
