@@ -1,44 +1,81 @@
-## Hi, 👋!
-***
+## Hey 👋, I'm IOxee  
+  
 
-<h3 align="center">I'm IO, a developer from Spain, a huge fan of Cyberpunk culture and I'm usually drinking Red Bull</h3>
-
-- 🔭 Currently working on **Servers for FiveM**
-
-- 👯 Collaborating in **FiveM Project and Servers**
-
-- 👨‍💻 All of my projects are available at [ioxeofficial.github.io](https://ioxeofficial.github.io/#home)
-
-### 📳 Social Networks:</h3>
-<p align="left">
-<a href="https://twitter.com/ioxeofficial" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/twitter.png" alt="ioxeofficial" height="64" width="64"/></a>
-<a href="https://dsc.bio/byblackdeath" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/discord-logo.png" alt="ByBlackDeath#5528" height="64" width="64"/></a>
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/nolan/64/spotify.png" alt="Spotify" height="64" width="64"/></a>
-</p>
+<a href="https://github.com/IOxee" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/IOxee" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+  
 
 
-### ⌨ Languages and Tools:</h3>
-<p align="left">
-<a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/></p>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-</p>
 
-### My Github Status
-![IOxee GitHub stats](https://github-readme-stats.vercel.app/api?username=IOxee&show_icons=true&theme=radical)
+### Glad to see you here!  
+I am a full-stack developer who has been working in the programming field for many years and has been able to turn all that knowledge into a small private business of developing Scripts and 3D Modeling for videogames.
 
-<!--### 🎶 What I'm listening to right now!
-[![Spotify playing](http://spotify.aio-api.ml/spotify?id=rockiolen&theme=wavy&image=true&color_theme=dark&bars_when_not_listening=true&bg_color=&title_color=%23fff&text_color=&hide_status=false&display_timer=true)](https://open.spotify.com/user/rockiolen)-->
+I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 3D Modeling services for GTA V and DayZ.  
+  
 
-<details>
-  <summary>More Things</summary>
-  </br>
-    <p>There is still nothing to show here</p>
-    <img src="https://i.imgur.com/3UQocTj.gif" alt="funny GIF" width="100%">
-  <br>
-</details>
+<br/>  
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on [OXY3N STUDIO](https://oxy3n-studio.tebex.io/)  
+  
+
+- 🌱 I’m currently learning PHP, JS and Lua  
+
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+<table><tr><td valign="top" width="50%">
+
+
+
+### Languages  
+<div align="center">  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=IOxee&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IOxee&hide_border=true&layout=compact" align="center" /></div>
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
