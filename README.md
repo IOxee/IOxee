@@ -38,12 +38,7 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 <br/>  
 
 
-## Languages and Tools  
-<table><tr><td valign="top" width="50%">
-
-
-
-### Languages  
+## Languages
 <div align="center">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -60,16 +55,12 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=IOxee&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IOxee&hide_border=true&layout=compact" align="center" /></div>
-
-</td></tr></table>  
-
 <br/>  
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IOxee&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IOxee&hide_border=true&layout=compact" align="center" /></div> 
   
 
 <br/>  
