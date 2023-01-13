@@ -65,8 +65,8 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 
 <br/>
 
-## Github Stats  
----
+## Github Stats
+
 <!--START_SECTION:waka-->
 
 ```text
