@@ -67,7 +67,7 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 
 ## Github Stats
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka-simple-->
 
 ```text
 PHP          56 mins         ██████████████▓░░░░░░░░░░   58.43 %
@@ -78,7 +78,7 @@ CSS          3 mins          ▓░░░░░░░░░░░░░░░░
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka-simple-->
 
 <br/>  
 
