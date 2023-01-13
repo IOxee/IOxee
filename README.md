@@ -70,12 +70,12 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 <!--START_SECTION:waka-->
 
 ```text
-PHP          56 mins         ██████████████▓░░░░░░░░░░   58.43 %
-JavaScript   27 mins         ███████░░░░░░░░░░░░░░░░░░   28.51 %
-TypeScript   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-CSS          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+PHP          56 mins         >>>>>>>>>>>>>>>----------   58.43 %
+JavaScript   27 mins         >>>>>>>------------------   28.51 %
+TypeScript   4 mins          >------------------------   04.87 %
+JSON         4 mins          >------------------------   04.49 %
+CSS          3 mins          >------------------------   03.11 %
+HTML         0 secs          -------------------------   00.60 %
 ```
 
 <!--END_SECTION:waka-->
