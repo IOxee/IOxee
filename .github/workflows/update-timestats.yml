@@ -1,6 +1,7 @@
 name: wakatime-stats
 
 on:
+  workflow_dispatch: # for manual workflow trigger
   schedule:
     - cron: '* */4 * * *'
 
