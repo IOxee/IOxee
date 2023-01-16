@@ -84,7 +84,7 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 11 January 2023 - To: 14 January 2023
+From: 11 January 2023 - To: 15 January 2023
 
 Total Time: 8 hrs 7 mins
 
