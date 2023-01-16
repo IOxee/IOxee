@@ -79,6 +79,40 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 
 ## Github Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2037%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-163-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 63 Contributions in the Year 2023
+ > 
+> 📦 12.2 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I Mostly Code in CSS** 
+
+```text
+CSS                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+PHP                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Visual Basic .NET        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/IOxee/IOxee/master/charts/bar_graph.png) 
+
+
+ Last Updated on 16/01/2023 11:47:51 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
