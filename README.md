@@ -155,23 +155,6 @@ Visual Basic .NET        1 repo              ██░░░░░░░░░�
  Last Updated on 16/01/2023 11:51:29 UTC
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-simple-->
-
-```text
-From: 11 January 2023 - To: 15 January 2023
-
-Total Time: 8 hrs 7 mins
-
-PHP          4 hrs 52 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.01 %
-TypeScript   2 hrs 2 mins    ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.20 %
-JavaScript   28 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.75 %
-HTML         22 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.54 %
-JSON         18 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.70 %
-CSS          3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.62 %
-```
-
-<!--END_SECTION:waka-simple-->
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rockiolen&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=bb00ff&bar_color_cover=false" /></div>
