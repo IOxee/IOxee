@@ -77,7 +77,14 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 
 <br/>  
 
-## Github Stats
+## Github Stats 
+<details><summary>Most Used Languages GitHub</summary>
+    <div align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioxee&langs_count=10&layout=compact&theme=synthwave"/>
+  </div>
+</details>
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%207%20mins-blue)
 
@@ -120,10 +127,6 @@ JSON                     18 mins             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioxee&langs_count=10&layout=compact&theme=synthwave"/>
-</div>
 
 <br/>  
 
