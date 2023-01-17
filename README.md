@@ -86,13 +86,13 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2030%20mins-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    84 commits     ██████████░░░░░░░░░░░░░░░   39.62% 
-🌆 Daytime    87 commits     ██████████░░░░░░░░░░░░░░░   41.04% 
+🌞 Morning    83 commits     █████████░░░░░░░░░░░░░░░░   39.15% 
+🌆 Daytime    88 commits     ██████████░░░░░░░░░░░░░░░   41.51% 
 🌃 Evening    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
 🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
 
