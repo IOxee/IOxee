@@ -86,7 +86,7 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2031%20mins-blue)
 
 **I'm an Early 🐤** 
 
