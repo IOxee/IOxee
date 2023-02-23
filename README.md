@@ -80,7 +80,7 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 ## Github Stats 
 <details><summary>Most Used Languages GitHub</summary>
     <div align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioxee&langs_count=10&layout=compact&theme=synthwave"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioxee&langs_count=15&layout=compact&theme=synthwave"/>
   </div>
 </details>
 
