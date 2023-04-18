@@ -76,12 +76,11 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 </td></tr></table>  
 
 <br/>  
-
+<details><summary>Status</summary>
+  
 ## Github Stats 
 <details><summary>Most Used Languages GitHub</summary>
-    <div align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioxee&langs_count=15&layout=compact&theme=synthwave"/>
-  </div>
 </details>
 
 
@@ -124,6 +123,7 @@ INI                      49 mins             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+</details>
 
 <br/>  
 
