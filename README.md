@@ -79,35 +79,15 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
 <details><summary>Status</summary>
   
 ## Github Stats 
-<details><summary>Most Used Languages GitHub</summary>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioxee&langs_count=15&layout=compact&theme=synthwave"/>
-</details>
+<!-- <details><summary>Most Used Languages GitHub</summary> -->
+<!-- </details> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioxee&langs_count=15&layout=compact&theme=synthwave"/>
+
+ 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2017%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
+  
 📊 **This Week I Spent My Time On** 
 
 ```text
