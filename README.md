@@ -18,7 +18,7 @@ I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 
   
  
 - 🔭 I’m currently working on [OXY3N STUDIO](https://oxy3n-studio.tebex.io/)  
-- 🌱 I’m currently learning PHP, JavaScript, TypeScript and Lua
+- 🌱 I’m currently learning C#, TypeScript and Lua
 
 <br/>  
 
