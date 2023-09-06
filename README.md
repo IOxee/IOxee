@@ -14,10 +14,10 @@
 ### Glad to see you here!  
 I am a full-stack developer who has been working in the programming field for many years and has been able to turn all that knowledge into a small private business of developing Scripts and 3D Modeling for videogames.
 
-I am co-founder of OXY3N STUDIO, a small shop, currently offering Scripting and 3D Modeling services for GTA V and DayZ.  
+I am co-founder of Fractal Game Studios, a small shop, currently offering Scripting and 3D Modeling services for GTA V and DayZ.  
   
  
-- 🔭 I’m currently working on [OXY3N STUDIO](https://oxy3n-studio.tebex.io/)  
+- 🔭 I’m currently working on [Fractal Game Studios](https://oxy3n-studio.tebex.io/)  
 - 🌱 I’m currently learning C#, TypeScript and Lua
 
 <br/>  
