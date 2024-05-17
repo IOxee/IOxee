@@ -106,7 +106,7 @@
 				<img src="https://github-readme-stats.vercel.app/api?username=IOxee&show_icons=true&theme=dracula&hide=prs,issues" align="center" />
 			</td>
 			<td valign="center" width="50%" align="center">
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IOxee&layout=donut&theme=dracula" align="center" />
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IOxee&layout=donut&theme=dracula&hide=php&langs_count=8" align="center" />
 			</td>
 		</tr>
 	</tbody>
