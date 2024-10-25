@@ -81,8 +81,6 @@
           <a href="" target="_blank"><img style="margin: 10px" src=".github/svg/powershell.png" alt="PowerShell" height="50" /></a>  
           <a href="" target="_blank"><img style="margin: 10px" src=".github/svg/woocommerce.png" alt="WooCommerce" height="50" /></a>  
           <a href="" target="_blank"><img style="margin: 10px" src=".github/svg/wordpress.png" alt="WordPress" height="50" /></a>  
-          <a href="" target="_blank"><img style="margin: 10px" src=".github/svg/arduino.png" alt="Arduino" height="50" /></a>  
-          <a href="" target="_blank"><img style="margin: 10px" src=".github/svg/opencv.svg" alt="OpenCV" height="50" /></a>  
         </div>
       </td>
     </tr>
