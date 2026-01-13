@@ -91,32 +91,5 @@
 	<a href="https://www.codewars.com/users/IOxee">Code Wars Status: <img src="https://www.codewars.com/users/IOxee/badges/small" align="center" /></a>
 </h4>
 
-<table align="center">
-	<thead>
-		<tr>
-			<td valign="center" width="50%" align="center">
-				<h3>Commits Status</h3>
-			</td>
-			<td valign="center" width="50%" align="center">
-				<h3>Top Langs</h3>
-			</td>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-		    <td valign="center" width="50%" align="center">
-				<img src="https://github-readme-stats.vercel.app/api?username=IOxee&show_icons=true&theme=dracula&hide=prs,issues" align="center" />
-			</td>
-			<td valign="center" width="50%" align="center">
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IOxee&layout=donut&theme=dracula&hide=php&langs_count=8" align="center" />
-			</td>
-		</tr>
-	</tbody>
-</table>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<br/>  
-	<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rockiolen&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=bb00ff&bar_color_cover=false" /></div>
-<br />
