@@ -87,9 +87,5 @@
   </tbody>
 </table>
 
-<h4 align="center">
-	<a href="https://www.codewars.com/users/IOxee">Code Wars Status: <img src="https://www.codewars.com/users/IOxee/badges/small" align="center" /></a>
-</h4>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
